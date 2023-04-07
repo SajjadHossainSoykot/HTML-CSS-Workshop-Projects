@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+h1{color: brown;}
+h2 {color: aqua;}
+p{color: rgb(233, 8, 0);
+font-size: 30PX;}
+a{color: rgb(49, 1, 224);
+text-decoration: underline;}

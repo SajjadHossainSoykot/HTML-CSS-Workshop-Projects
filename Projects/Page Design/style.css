@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+}
+.full-wraper{
+    width: 100%;
+    clear: both;
+}
+.wraper {
+    width:1100px ;
+    margin: 0 auto; 
+}
+.logo img{
+    width: 140px;
+    padding: 10px 0;
+    float: left;
+}
+.menu{
+    float:left ;
+    width: 960px;
+    text-align: right;
+    margin-top: 15px;
+}
+.menu a{
+    color: rgb(0, 0, 0);
+    padding: 10 px ;
+    font-size: 24px;
+}
+/* Banner starts here */
+.banner-img{
+    background-image: url(./../../Dummy/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+}
+.banner-text{ 
+    text-align: center;
+}
+.banner-text h1,p{
+    color: white;
+    font-family: Georgia;
+}

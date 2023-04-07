@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hello{
+    padding: 0;
+    margin: 0;
+}
+#head1{
+    color:red;
+}
+#head2{
+    color: green;
+}
+.eng-class{
+color: royalblue;
+}
+h1.ict-class{
+color: rgb(0, 0, 0);
+}
+.parent1{
+    height:853.3px;
+    :max-content;
+    background: url("/assets/images/bg_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    color: rgb(241, 239, 239);
+}
+.parent2{
+    
+    background-color: chartreuse;
+    color: red;
+    /* margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 20;
+    margin-right: : */
+    padding: 0px 0px 0px 0px;
+    margin: 40px 50px 0px 50px; 
+
+}
+.parent2 h2{
+    border: 3px solid rgb(0, 0, 0);
+    box-sizing: content-box;
+}
+.parent2 p{
+    text-transform:capitalize;
+}
+.parent3{
+    
+    background-color: rgb(6, 226, 255);
+    color: red;
+    /* margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 20;
+    margin-right: : */
+    padding: 0px 0px 0px 0px;
+    margin: 40px 0px 0px 0px;
+.box{
+    padding: ;
+    margin: ;
+    box-sizing: content-box ;
+    background-color: burlywood;
+}
+.dd {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: #ffffff;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  .dd a:hover {
+    box-shadow: inset 100px 0 0 0 #54b3d6;
+    color: rgb(0, 255, 76);
+  }

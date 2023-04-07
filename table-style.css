@@ -1,0 +1,13 @@
+td{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: semi-expanded;
+}
+tr{
+    size: 40px;
+}
+.myDiv{
+    background-image: -webkit-image-set();
+}
